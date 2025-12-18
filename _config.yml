@@ -2,6 +2,7 @@ title: My Personal Blog
 author: Your Name
 description: A place where I share my thoughts.
 theme: minima
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
