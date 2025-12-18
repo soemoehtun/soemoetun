@@ -1,7 +1,7 @@
 ---
 layout: post
-title: My First Blog Post
-date: {}
+title: "What Is Life?"
+date: 2025-12-19
 ---
 ## What Is Life?
 
